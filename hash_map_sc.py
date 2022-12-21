@@ -1,5 +1,3 @@
-# Name: Brandon Koehler
-# OSU Email: koehlerb@oregonstate.edu
 # Course: CS261 - Data Structures
 # Assignment: 6
 # Due Date: 12/2/22
